@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-#
 # Author Dario Clavijo 2015
 # GPLv3
 
